@@ -1,7 +1,7 @@
 title: Ben Lewis
 description: AWS Certified Solutions Architect | AWS Platform Engineer
 # theme: jekyll-theme-Hacker
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-midnight
@@ -9,5 +9,5 @@ description: AWS Certified Solutions Architect | AWS Platform Engineer
 # theme: jekyll-theme-architect
 # theme: jekyll-theme-hacker
 # theme: jekyll-theme-leap-day
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot
 # theme: jekyll-theme-time-machine
