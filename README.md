@@ -3,15 +3,16 @@
 **AWS Certified Solutions Architect \| AWS Platform Engineer**
 
 ## Contact 
+<img align="right" src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 
 **Location:** Adelaide, SA  
 
 | 📧 | 💼 | `</>` |
 |-------|----------|--------|
-| ben_lewis_91@hotmail.com | https://linkedin.com/in/benlewis91 | https://github.com/benLewisDev |
+| [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn Profile](https://linkedin.com/in/benlewis91) | [GitHub Overview](https://github.com/benLewisDev) |
+
 
 # Professional Summary
-<img align="right" src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 AWS Certified Solutions Architect and Cloud Engineer with experience designing, implementing and supporting secure cloud platforms for government and enterprise clients across Defence, cyber security and digital health environments. Skilled in AWS cloud-native services, Infrastructure as Code, platform engineering, Linux administration and DevOps practices, with hands-on experience delivering cloud migration, automation and operational support using Terraform, Kubernetes, Docker and Git-based workflows. Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
 
 ---
