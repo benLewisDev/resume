@@ -1,5 +1,3 @@
-# Resume
-
 ## Contact
 
 **Location:** Adelaide, SA  
