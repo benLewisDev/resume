@@ -1,12 +1,13 @@
 # BEN LEWIS
 
+## Contact 
 <img align="right" src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 
 **AWS Certified Solutions Architect | AWS Platform Engineer**
 
 **Location:** Adelaide, SA  
 
-| Email | LinkedIn | GitHub |
+| 📧 | 💼 | `</>` |
 |-------|----------|--------|
 | ben_lewis_91@hotmail.com | https://linkedin.com/in/benlewis91 | https://github.com/benLewisDev |
 
