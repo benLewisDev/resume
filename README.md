@@ -114,6 +114,7 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 ---
 
 ## Looking Ahead
+*Now - Forever*
 Technology is one of those fields where there's always something new to learn, and that's exactly what keeps me interested. I have an insatiable curiosity and Technology is a space that allows me to feed that hunger for knowledge.
 
 I'm looking forward to building more things, exploring new ideas, contributing back through open source, and finding a place where I can grow alongside a great team. Along the way, I'd also like to spend more time mentoring junior engineers and helping others find their footing in the industry.
