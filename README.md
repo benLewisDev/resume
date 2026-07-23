@@ -9,7 +9,7 @@
 
 | 📧 | 💼 | `</>` |
 |-------|----------|--------|
-| [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn Profile](https://linkedin.com/in/benlewis91) | [GitHub Overview](https://github.com/benLewisDev) |
+| [GitHub Overview](https://github.com/benLewisDev) | [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn Profile](https://linkedin.com/in/benlewis91) |
 
 
 # Professional Summary
