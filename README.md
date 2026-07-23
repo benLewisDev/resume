@@ -1,4 +1,5 @@
 # Ben Lewis
+<img src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 
 ## Contact
 
@@ -11,7 +12,7 @@
 ---
 
 # Professional Summary
-<img align="right" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
+
 AWS Certified Solutions Architect and Cloud Engineer.
 
 Experience designing, implementing and supporting secure cloud platforms for government and enterprise clients across Defence, cyber security and digital health environments.
