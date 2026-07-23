@@ -1,9 +1,8 @@
 # BEN LEWIS
-
+<img src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 **AWS Certified Solutions Architect \| AWS Platform Engineer**
 
 ## Contact 
-<img align="right" src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 
 **Location:** Adelaide, SA  
 
