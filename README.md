@@ -21,6 +21,7 @@ Skilled in AWS cloud-native services, Infrastructure as Code, Platform Engineeri
 
 Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
 
+---
 
 # Certifications
 
