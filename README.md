@@ -11,7 +11,7 @@
 ---
 
 # Professional Summary
-<img align="right" src="./assets/profile-pic.jpeg" width="275" alt="Ben Lewis">
+<img align="right" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 AWS Certified Solutions Architect and Cloud Engineer. 
 Experience designing, implementing and supporting secure cloud platforms for government and enterprise clients across Defence, cyber security and digital health environments. 
 Skilled in AWS cloud-native services, Infrastructure as Code, Platform Engineering, Linux Administration and DevOps Practices. Hands-on experience delivering cloud migration, automation and operational support using Terraform, Kubernetes, Docker and Git-based workflows. 
