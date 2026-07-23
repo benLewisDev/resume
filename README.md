@@ -1,6 +1,8 @@
 # BEN LEWIS
-<img src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
+
 **AWS Certified Solutions Architect \| AWS Platform Engineer**
+
+<img src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
 
 ## Contact 
 
