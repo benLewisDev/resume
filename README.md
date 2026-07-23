@@ -1,8 +1,4 @@
----
-title: BEN LEWIS
-description: AWS Certified Solutions Architect • AWS Platform Engineer
----
-
+# Ben Lewis
 
 ## Contact
 
