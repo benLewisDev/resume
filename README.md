@@ -17,7 +17,6 @@ Experience designing, implementing and supporting secure cloud platforms for gov
 Skilled in AWS cloud-native services, Infrastructure as Code, Platform Engineering, Linux Administration and DevOps Practices. Hands-on experience delivering cloud migration, automation and operational support using Terraform, Kubernetes, Docker and Git-based workflows. 
 Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
 
----
 
 # Certifications
 
