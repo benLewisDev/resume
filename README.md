@@ -1,6 +1,6 @@
 # BEN LEWIS
 
-**AWS Certified Solutions Architect | AWS Platform Engineer**
+**AWS Certified Solutions Architect \| AWS Platform Engineer**
 
 ## Contact 
 
