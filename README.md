@@ -23,7 +23,6 @@ AWS Certified Solutions Architect and Cloud Engineer with experience designing, 
 - **AWS Certified Solutions Architect – Associate** – AWS (2023)
 - **AWS Certified Cloud Practitioner** – AWS (2024)
 - **Microsoft Certified: AZ-900 Azure Fundamentals** – Microsoft (2023)
-- **PEGA System Architect & Business Architect** – PEGA Academy (2021)
 
 ---
 
