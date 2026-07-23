@@ -8,7 +8,7 @@
 
 **Location:** Adelaide, SA  
 
-| 📧 | 💼 | `</>` |
+| `</>` | 📧 | 💼 |
 |-------|----------|--------|
 | [GitHub Overview](https://github.com/benLewisDev) | [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn Profile](https://linkedin.com/in/benlewis91) |
 
