@@ -3,7 +3,7 @@
   <img id="profile-pic" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 </div>
 
-## Contact
+<h2 align="center">Contact</h4>
 
 <div class="contact-links">
   <a href="https://github.com/benLewisDev" class="contact-item">
