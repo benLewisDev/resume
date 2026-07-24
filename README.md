@@ -125,5 +125,7 @@ I'm looking forward to building more things, exploring new ideas, contributing b
 
 <p align="center">
 If you'd like to connect or chat about cloud engineering, feel free to reach out.
+</p>
+<p align="center">
 Ben Lewis • AWS Certified Solutions Architect • Adelaide, SA
 </p>
