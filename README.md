@@ -119,3 +119,13 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 Technology is one of those fields where there's always something new to learn, and that's exactly what keeps me interested. I have an insatiable curiosity and tech is a space that allows me to feed that hunger for knowledge.
 
 I'm looking forward to building more things, exploring new ideas, contributing back through open source, and finding a place where I can grow alongside a great team. Along the way, I'd also like to spend more time mentoring junior engineers and helping others find their footing in the industry.
+
+---
+
+#### Thanks for reading.
+
+If you'd like to connect or chat about cloud engineering, feel free to reach out.
+
+<p align="center">
+Ben Lewis • AWS Certified Solutions Architect • Adelaide, SA
+</p>
