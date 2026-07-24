@@ -1,7 +1,5 @@
 # Ben Lewis
-<img src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
-
-**Location:** Adelaide, SA  
+<img id="profile-pic" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 
 ## Contact
 
