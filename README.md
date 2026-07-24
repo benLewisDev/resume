@@ -1,5 +1,5 @@
 # Ben Lewis
-<img id="profile-pic" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
+<img id="profile-pic" align="center" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 
 ## Contact
 
