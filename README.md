@@ -5,9 +5,28 @@
 
 ## Contact
 
-| `</>` | 📧 | 💼 |
-|-------|----------|--------|
-| [GitHub](https://github.com/benLewisDev) | [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn](https://linkedin.com/in/benlewis91) |
+<div class="contact-links">
+  <a href="https://github.com/benLewisDev" class="contact-item">
+    <span class="icon"><code>&lt;/&gt;</code></span>
+    <span>GitHub</span>
+  </a>
+
+  <a href="https://linkedin.com/in/benlewis91/" class="contact-item">
+    <span class="icon">💼</span>
+    <span>LinkedIn</span>
+  </a>
+
+  <a href="mailto:ben_lewis_91@hotmail.com" class="contact-item">
+    <span class="icon">✉️</span>
+    <span>Email</span>
+  </a>
+
+  <a href="https://github.com/benLewisDev/resume/tree/main/resume-documents" class="contact-item">
+    <span class="icon">📄</span>
+    <span>Resume</span>
+  </a>
+</div>
+
 
 ---
 
