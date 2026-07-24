@@ -28,7 +28,7 @@
 
 .contact-item {
   display: flex;
-  align-items: center;
+  align-items: space-between;
   gap: 0.5rem;
 
   padding: 0.75rem 1.25rem;
@@ -39,6 +39,16 @@
   color: #6B0D45;
   text-decoration: none;
   transition: all 0.2s ease;
+}
+
+.contact-item:hover {
+  background: #f8f4f6;
+  border-color: #6B0D45;
+  transform: translateY(-2px);
+}
+
+.contact-item .icon {
+  font-size: 1.1rem;
 }
 
 .project-name,
