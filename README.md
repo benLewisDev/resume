@@ -121,7 +121,7 @@ Technology is one of those fields where there's always something new to learn, a
 I'm looking forward to building more things, exploring new ideas, contributing back through open source, and finding a place where I can grow alongside a great team. Along the way, I'd also like to spend more time mentoring junior engineers and helping others find their footing in the industry.
 
 ---
-<h5 align="center">Thanks for reading</h5>
+<h4 align="center">Thanks for reading</h4>
 
 <p align="center">
 If you'd like to connect or chat about cloud engineering, feel free to reach out.
