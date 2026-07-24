@@ -14,6 +14,10 @@
     display: none;
 }
 
+.main-content h1#ben-lewis {
+   display: none;
+}
+
 .site-footer{
     display: none !important;
 }
@@ -75,21 +79,4 @@
 .main-content h5,
 .main-content h6 {
     color: #6B0D45;
-}
-
-a {
-  color: #6B0D45;
-}
-
-a:hover {
-  color: #8A3C68;
-}
-
-.btn {
-  color: rgba(255,255,255,.9);
-  border-color: rgba(255,255,255,.3);
-}
-
-.btn:hover {
-  background-color: rgba(255,255,255,.15);
 }
