@@ -18,6 +18,12 @@
    display: none;
 }
 
+.main-content img#profile-pic {
+  display: block;
+  margin: 0 auto 2rem;
+  border-radius: 8px; // Optional if you like slightly rounded corners
+}
+
 .site-footer{
     display: none !important;
 }
