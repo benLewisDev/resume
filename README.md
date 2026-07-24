@@ -25,9 +25,9 @@ Former Australian Army Reserve Corporal with proven leadership, operational plan
 
 # Certifications
 
+- **Microsoft Certified: AZ-900 Azure Fundamentals** – Microsoft (2023)
 - **AWS Certified Cloud Practitioner** – AWS (2023)
 - **AWS Certified Solutions Architect – Associate** – AWS (2024)
-- **Microsoft Certified: AZ-900 Azure Fundamentals** – Microsoft (2023)
 
 ---
 
