@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #6B0D45;
+  background-image: linear-gradient(120deg, #4F0933, #6B0D45);
+}
+
+.project-name,
+.project-tagline {
+  color: white;
+}
+
+a {
+  color: #6B0D45;
+}
+
+a:hover {
+  color: #8A3C68;
+}
+
+.btn {
+  color: rgba(255,255,255,.9);
+  border-color: rgba(255,255,255,.3);
+}
+
+.btn:hover {
+  background-color: rgba(255,255,255,.15);
+}
