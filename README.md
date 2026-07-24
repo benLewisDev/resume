@@ -1,20 +1,25 @@
-# BEN LEWIS
+# Ben Lewis
+<img src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 
-**AWS Certified Solutions Architect \| AWS Platform Engineer**<br>
-
-<img src="./assets/profile-pic.jpeg" width="180" alt="Ben Lewis">
-
-## Contact 
+## Contact
 
 **Location:** Adelaide, SA  
 
-| 📧 | 💼 | `</>` |
+| `</>` | 📧 | 💼 |
 |-------|----------|--------|
-| [GitHub Overview](https://github.com/benLewisDev) | [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn Profile](https://linkedin.com/in/benlewis91) |
+| [GitHub](https://github.com/benLewisDev) | [Ben_Lewis_91@hotmail.com](ben_lewis_91@hotmail.com) | [LinkedIn](https://linkedin.com/in/benlewis91) |
 
+---
 
 # Professional Summary
-AWS Certified Solutions Architect and Cloud Engineer with experience designing, implementing and supporting secure cloud platforms for government and enterprise clients across Defence, cyber security and digital health environments. Skilled in AWS cloud-native services, Infrastructure as Code, platform engineering, Linux administration and DevOps practices, with hands-on experience delivering cloud migration, automation and operational support using Terraform, Kubernetes, Docker and Git-based workflows. Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
+
+AWS Certified Solutions Architect and Cloud Engineer.
+
+Experience designing, implementing and supporting secure cloud platforms for Government and Enterprise clients across Defence, Cyber Security and Digital Health Environments.
+
+Skilled in AWS cloud-native services, Infrastructure as Code, platform engineering, Linux administration and DevOps practices. Hands-on experience delivering cloud migration, automation and operational support using Terraform, Kubernetes, Docker and Git-based workflows.
+
+Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
 
 ---
 
@@ -42,7 +47,7 @@ AWS Certified Solutions Architect and Cloud Engineer with experience designing, 
 
 ---
 
-# Professional Experience
+# Relevant Experience
 
 ## Cloud & Engineering Senior Consultant – AWS Platform Engineering
 **Deloitte**  
@@ -108,7 +113,9 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 
 ---
 
-## Earlier Career
-*2011 – 2020*
+## Looking Ahead
+*Now - Forever*
 
-Held roles in security, automotive parts interpretation and venue operations before transitioning into cloud engineering. Relocated from New South Wales to South Australia in 2018.
+Technology is one of those fields where there's always something new to learn, and that's exactly what keeps me interested. I have an insatiable curiosity and tech is a space that allows me to feed that hunger for knowledge.
+
+I'm looking forward to building more things, exploring new ideas, contributing back through open source, and finding a place where I can grow alongside a great team. Along the way, I'd also like to spend more time mentoring junior engineers and helping others find their footing in the industry.
