@@ -18,6 +18,14 @@
     display: none !important;
 }
 
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
 .project-name,
 .project-tagline {
   color: white;
