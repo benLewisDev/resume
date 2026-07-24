@@ -4,14 +4,12 @@
 @import "{{ site.theme }}";
 
 .page-header {
-    background-image: linear-gradient(
-        135deg,
-        #9C9398 0%,
-        #7E6572 40%,
-        #6B0D45 75%,
-        #4F0933 100%
-    );
+    background-image: url("../banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 .project-name,
 .project-tagline {
