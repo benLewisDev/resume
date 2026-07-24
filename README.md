@@ -5,7 +5,7 @@
 
 <h2 align="center">Contact</h4>
 
-<div class="contact-links">
+<div align="center" class="contact-links">
   <a href="https://github.com/benLewisDev" class="contact-item">
     <span class="icon"><code>&lt;/&gt;</code></span>
     <span>GitHub</span>
