@@ -4,7 +4,7 @@
   <img id="profile-pic" src="./assets/profile-pic.jpeg" width="250" alt="Ben Lewis">
 </div>
 
-<h2 align="center">Contact</h4>
+<h2 align="center">Contact</h2>
 
 <div align="center" class="contact-links">
   <a href="https://github.com/benLewisDev" class="contact-item">
