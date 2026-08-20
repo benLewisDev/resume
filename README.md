@@ -121,7 +121,6 @@ Designed and implemented proof-of-concept software solutions for government clie
 ## Corporal – Light Cavalry Scout
 **Australian Army Reserve (NSW & SA)**  
 *Jul 2014 – May 2023*
-
 Delivered leadership, communications and operational support within the Australian Army Reserve, leading small teams in high-pressure environments requiring teamwork, discipline and sound decision-making. Operated secure communications systems in accordance with Defence security requirements and planned field activities involving risk assessment, situational awareness and effective decision-making.
 
 ---
@@ -129,7 +128,6 @@ Delivered leadership, communications and operational support within the Australi
 ## Deployment Engineer
 **DXC – Defence Protected Network Rollout**  
 *Feb 2017 – Dec 2017*
-
 Supported the nationwide rollout of the Defence Protected Network, delivering secure endpoint deployments and infrastructure upgrades across Defence sites throughout New South Wales while adhering to Defence security procedures.
 
 ---
@@ -139,12 +137,18 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 ## Security Operations
 **Commander Security Services, Security Specialists Australia**
 *March 2015 – May 2017*
+
 Performed cash-in-transit and static security duties across client sites, working within strict security procedures and time-critical collection schedules. Liaised with business owners to coordinate secure banking collections, handled and reconciled large cash amounts, completed daily reports and returns, and used radio communications in accordance with company SOPs. Developed strong situational awareness, attention to detail, teamwork, safe vehicle operation, and experience training new staff.
+
+---
 
 ## Automotive Parts Interpreter
 **JJ Autoparts & Riverside Spares**
 *October 2011 – September 2014*
+
 Worked in automotive spare-parts environments providing parts interpretation, sales and customer support, stock-related assistance, and delivery services. Built practical experience identifying customer requirements, communicating clearly with customers and suppliers, managing competing priorities, and maintaining accuracy in a fast-paced setting. Also supported yard operations, vehicle dismantling, deliveries, and staff training.
+
+---
 
 ## Looking Ahead
 *Now - Forever*
