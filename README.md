@@ -37,6 +37,7 @@ AWS Certified Solutions Architect and Cloud Engineer.
 
 Experience delivering secure cloud platforms, Infrastructure as Code, Linux administration, and production support across government, Defence, and enterprise environments.
 Strong background in AWS, Terraform, Kubernetes, automation, incident response, and stakeholder collaboration, with a disciplined, solutions-focused approach to reliable, secure, and highly available operations.
+
 Former Australian Army Reserve Corporal with proven leadership, operational planning and stakeholder engagement skills, bringing a disciplined, adaptable and solutions-focused approach to complex technical environments.
 
 ---
