@@ -31,7 +31,7 @@
 
 ---
 
-# Professional Summary
+# PROFESSIONAL SUMMARY
 
 AWS Certified Solutions Architect and Cloud Engineer.
 
@@ -42,7 +42,7 @@ Former Australian Army Reserve Corporal with proven leadership, operational plan
 
 ---
 
-# Certifications
+# EDUCATION AND QUALIFICATIONS
 
 - **AWS Certified Solutions Architect – Associate** – AWS (2024)
 - **AWS Certified Cloud Practitioner** – AWS (2023)
@@ -50,7 +50,7 @@ Former Australian Army Reserve Corporal with proven leadership, operational plan
 
 ---
 
-# Technical Skills
+# KEY SKILLS AND EXPERTISE
 
 | Category | Technologies |
 |----------|--------------|
@@ -67,7 +67,7 @@ Former Australian Army Reserve Corporal with proven leadership, operational plan
 
 ---
 
-# Relevant Experience
+# RELEVANT EXPERIENCE
 
 ## Cloud & Engineering Senior Consultant – AWS Platform Engineering
 **Deloitte**  
@@ -150,7 +150,7 @@ Worked in automotive spare-parts environments providing parts interpretation, sa
 
 ---
 
-## Looking Ahead
+# LOOKING AHEAD
 *Now - Forever*  
 
 Technology is one of those fields where there's always something new to learn, and that's exactly what keeps me interested. I have an insatiable curiosity and tech is a space that allows me to feed that hunger for knowledge.
