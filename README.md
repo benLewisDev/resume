@@ -70,8 +70,9 @@ Former Australian Army Reserve Corporal with proven leadership, operational plan
 # Relevant Experience
 
 ## Cloud & Engineering Senior Consultant – AWS Platform Engineering
-**Deloitte**  
-*May 2023 – Jul 2026*
+**Deloitte**\
+*May 2023 – Jul 2026*\
+
 While at Deloitte, I contributed to multiple government programmes, delivering secure cloud and infrastructure solutions for nationally sensitive environments. My work focused on designing and engineering systems aligned with security frameworks such as ISM controls and Essential Eight requirements, with an emphasis on compliance, resilience, and operational integrity. 
 
 ### Project: Confidential Government Client
@@ -96,8 +97,9 @@ Provided AWS platform engineering support for a large-scale government-led cyber
 ---
 
 ## Consultant
-**WithYouWithMe (WYWM)**  
-*May 2021 – May 2023*
+**WithYouWithMe (WYWM)**\
+*May 2021 – May 2023*\
+
 At With You With Me, I made the first major transition into a technology career, contributing to business-critical production support for the Australian Digital Health Agency’s My Health Record reporting services, as well as designing and implementing proof-of-concept software solutions for a startup serving government clients. 
 
 ### Project: Production Operations (Level 2 Reporting) – Accenture Australia
@@ -119,15 +121,17 @@ Designed and implemented proof-of-concept software solutions for government clie
 ---
 
 ## Corporal – Light Cavalry Scout
-**Australian Army Reserve (NSW & SA)**  
-*Jul 2014 – May 2023*
+**Australian Army Reserve (NSW & SA)**\
+*Jul 2014 – May 2023*\
+
 Delivered leadership, communications and operational support within the Australian Army Reserve, leading small teams in high-pressure environments requiring teamwork, discipline and sound decision-making. Operated secure communications systems in accordance with Defence security requirements and planned field activities involving risk assessment, situational awareness and effective decision-making.
 
 ---
 
 ## Deployment Engineer
-**DXC – Defence Protected Network Rollout**  
-*Feb 2017 – Dec 2017*
+**DXC – Defence Protected Network Rollout**\
+*Feb 2017 – Dec 2017*\
+
 Supported the nationwide rollout of the Defence Protected Network, delivering secure endpoint deployments and infrastructure upgrades across Defence sites throughout New South Wales while adhering to Defence security procedures.
 
 ---
@@ -135,23 +139,23 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 # EARLIER EXPERIENCE
 
 ## Security Operations
-**Commander Security Services, Security Specialists Australia**
-*March 2015 – May 2017*
+**Commander Security Services, Security Specialists Australia**\
+*March 2015 – May 2017*\
 
 Performed cash-in-transit and static security duties across client sites, working within strict security procedures and time-critical collection schedules. Liaised with business owners to coordinate secure banking collections, handled and reconciled large cash amounts, completed daily reports and returns, and used radio communications in accordance with company SOPs. Developed strong situational awareness, attention to detail, teamwork, safe vehicle operation, and experience training new staff.
 
 ---
 
 ## Automotive Parts Interpreter
-**JJ Autoparts & Riverside Spares**
-*October 2011 – September 2014*
+**JJ Autoparts & Riverside Spares**\
+*October 2011 – September 2014*\
 
 Worked in automotive spare-parts environments providing parts interpretation, sales and customer support, stock-related assistance, and delivery services. Built practical experience identifying customer requirements, communicating clearly with customers and suppliers, managing competing priorities, and maintaining accuracy in a fast-paced setting. Also supported yard operations, vehicle dismantling, deliveries, and staff training.
 
 ---
 
 ## Looking Ahead
-*Now - Forever*
+*Now - Forever*\
 
 Technology is one of those fields where there's always something new to learn, and that's exactly what keeps me interested. I have an insatiable curiosity and tech is a space that allows me to feed that hunger for knowledge.
 
