@@ -147,7 +147,7 @@ Performed cash-in-transit and static security duties across client sites, workin
 ---
 
 ## Automotive Parts Interpreter
-**JJ Autoparts & Riverside Spares**  
+**JJ Autoparts, Riverside Spares**  
 *October 2011 – September 2014*  
 
 Worked in automotive spare-parts environments providing parts interpretation, sales and customer support, stock-related assistance, and delivery services. Built practical experience identifying customer requirements, communicating clearly with customers and suppliers, managing competing priorities, and maintaining accuracy in a fast-paced setting. Also supported yard operations, vehicle dismantling, deliveries, and staff training.
