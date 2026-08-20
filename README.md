@@ -94,7 +94,6 @@ Provided AWS platform engineering support for a large-scale government-led cyber
 - Worked with EC2, Lambda, CloudWatch, Athena, CloudFormation and SQL.
 - Investigated, managed, and resolved production incidents to maintain platform availability, performance, and recovery outcomes.
 
----
 
 ## Consultant
 **WithYouWithMe (WYWM)**  
@@ -118,7 +117,6 @@ Designed and implemented proof-of-concept software solutions for government clie
 - Collaborated within Agile delivery teams and with technical and business stakeholders to deliver proof-of-concept solutions aligned to client needs and project outcomes.
 - Researched new technologies and shared knowledge across the team, contributing to capability uplift and more effective delivery.
 
----
 
 ## Corporal – Light Cavalry Scout
 **Australian Army Reserve (NSW & SA)**  
@@ -126,7 +124,6 @@ Designed and implemented proof-of-concept software solutions for government clie
 
 Delivered leadership, communications and operational support within the Australian Army Reserve, leading small teams in high-pressure environments requiring teamwork, discipline and sound decision-making. Operated secure communications systems in accordance with Defence security requirements and planned field activities involving risk assessment, situational awareness and effective decision-making.
 
----
 
 ## Deployment Engineer
 **DXC – Defence Protected Network Rollout**  
@@ -144,7 +141,6 @@ Supported the nationwide rollout of the Defence Protected Network, delivering se
 
 Performed cash-in-transit and static security duties across client sites, working within strict security procedures and time-critical collection schedules. Liaised with business owners to coordinate secure banking collections, handled and reconciled large cash amounts, completed daily reports and returns, and used radio communications in accordance with company SOPs. Developed strong situational awareness, attention to detail, teamwork, safe vehicle operation, and experience training new staff.
 
----
 
 ## Automotive Parts Interpreter
 **JJ Autoparts, Riverside Spares**  
